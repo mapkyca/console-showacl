@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-showacl",
+    "type": "known-console",
+    "description": "ShowACL A tool to list the access groups a given user has access to (including those supplied programmatically)",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "ShowACL"
+    }
+}
